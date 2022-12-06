@@ -11,3 +11,4 @@ Calculdora de operações básicas.
 # Referências & créditos
 A seguinte calculadora foi feita baseada no vídeo "CRIE UMA CALCULADORA COM HTML CSS E JAVASCRIPT" - Canal Matheus Battisti - Hora de Codar;
 <p> Disponível em: https://www.youtube.com/watch?v=KCfaPZ2t2yA
+<p> Código original: https://github.com/matheusbattisti/js_calc
