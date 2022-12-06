@@ -9,6 +9,6 @@ Calculdora de operações básicas.
 [Calculadora.webm](https://user-images.githubusercontent.com/81831807/206011077-2412c7ec-3a0f-45f1-bb89-63fd71cf2961.webm)
 
 # Referências & créditos
-A seguinte calculadora foi feita baseada no vídeo "CRIE UMA CALCULADORA COM HTML CSS E JAVASCRIPT" - Canal Matheus Battisti - Hora de Codar;
-<p> Disponível em: https://www.youtube.com/watch?v=KCfaPZ2t2yA
-<p> Código original: https://github.com/matheusbattisti/js_calc
+A seguinte calculadora foi feita baseada no vídeo "Crie Uma CALCULADORA com HTML, CSS & JavaScript" - Canal Felipe Rocha - Dicas para devs;
+<p> Disponível em: https://www.youtube.com/watch?v=93wPYo1pjic&t=159s
+<p> Código original: https://github.com/felipemotarocha/calculadora-dicasparadevs
